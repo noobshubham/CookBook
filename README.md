@@ -1,2 +1,4 @@
 CookBook
 =========
+
+CookBook is your go-to recipe search app, bringing a world of culinary delights to your fingertips. Powered by the Spoonacular API, CookBook offers a rich collection of popular and diverse recipes with detailed ingredients, easy-to-follow instructions, nutritional information, and similar recipe suggestions. Whether you're searching for new dishes to try or saving your favorite recipes for later, CookBook makes it simple and enjoyable. With smooth navigation, engaging animations, and integrated ads, CookBook ensures a seamless and delightful cooking experience for every food lover.
